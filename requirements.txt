@@ -1,0 +1,6 @@
+Flask
+folium
+pandas
+numpy
+scikit-learn
+gunicorn
